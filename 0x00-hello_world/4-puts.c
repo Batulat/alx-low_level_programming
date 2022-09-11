@@ -1,11 +1,11 @@
 #include<stdio.h>
 /**
  *  main - This is the entry point
- *  description - it prints using puts
- *  return: 0
+ *  description: it prints using puts
+ *  Return: 0
  */
 int main(void)
 {
-	puts("Programming is like building a multilingual puzzle\n");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
