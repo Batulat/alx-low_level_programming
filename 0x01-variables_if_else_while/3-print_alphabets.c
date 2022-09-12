@@ -12,13 +12,13 @@ int main(void)
 {
 	char ch;
 
-	//lowercase//
+	/*lowercase*/
 	for (ch = 'a'; ch <= 'z'; ch++)
 
 	{
 		putchar(ch);
 	}
-	//uppercase//
+	/*uppercase*/
 	for (ch = 'A'; ch <= 'Z'; ch++)
 	{
 		putchar(ch);
