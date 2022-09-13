@@ -7,13 +7,12 @@
  */
 int main(void)
 {
-	unsigned int i;
 	char ch;
 
-	for (i = 0; i < 10; i++)
+	for (ch = 0; ch < 10; ch++)
 
 	{
-		putchar(i);
+		putchar(ch);
 	}
 	for (ch = 'a'; ch < 'g'; ch++)
 
