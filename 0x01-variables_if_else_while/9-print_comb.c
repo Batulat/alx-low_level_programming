@@ -1,19 +1,20 @@
 #include<stdio.h>
 /**
- * main - entry point 
- * description:  program that prints all possible 
- * combinations of single-digit numbers.
+ * main - entry
+ * description: print combination for single
+ * digits
  * Return: 0
  */
 int main(void)
 {
-	int ch;
+	int c;
 
-	for (ch = 48; ch <= 57; ch++)
+	for (c = 48; c <= 57; c++)
 
 	{
-		putchar(ch);
-		if (ch != 57)
+		putchar(c);
+		if (c != 57)
+
 		{
 			putchar(',');
 			putchar(' ');
