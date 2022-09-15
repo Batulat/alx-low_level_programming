@@ -2,7 +2,7 @@
 /**
  * _islower - entry
  * Return: 1 if successful
- *
+ * @c: letter
  */
 int _islower(int c)
 {
