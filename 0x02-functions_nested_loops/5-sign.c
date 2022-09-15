@@ -2,7 +2,7 @@
 /**
  * print_sign - entry
  * Return: 1 when success
- * @c: signs
+ * @n: is zero
  */
 int print_sign(int n)
 {
